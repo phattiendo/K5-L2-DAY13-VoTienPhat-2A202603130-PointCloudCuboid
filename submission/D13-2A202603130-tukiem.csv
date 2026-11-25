@@ -1,0 +1,94 @@
+frame,idx,label,dist_m,points_in,ground_gap_m,flags,bang_a_sha256
+s01f19,1,Car,4.9,2805,-0.17,width=2.47 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f19,2,Car,29.6,148,-0.24,width=2.33 ngoài khoảng 1.4–2.3 của Car; height=2.42 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f19,3,Car,49.6,66,,height=2.42 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f19,4,Car,30.2,111,,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f19,5,Car,10.3,1534,0.02,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f19,6,Bus,22.0,1453,-0.01,width=3.40 ngoài khoảng 2.0–3.2 của Bus,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f19,7,Car,14.2,788,-0.15,width=2.41 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f19,8,Car,16.2,635,0.05,width=2.56 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f43,1,Car,6.5,2631,-0.06,width=2.41 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f43,2,Car,8.1,1777,-0.08,width=2.45 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f43,3,Car,17.7,427,-0.08,width=2.52 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f43,4,Car,39.1,116,-0.23,width=2.92 ngoài khoảng 1.4–2.3 của Car; height=2.69 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f43,5,Car,12.8,747,0.02,width=2.34 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f43,6,Car,18.8,489,-0.09,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s01f43,7,Car,31.0,137,-0.26,đáy thấp hơn mặt đường 0.26 m (chìm?); width=2.43 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f18,1,Car,4.5,4233,0.22,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f18,2,Car,11.3,1184,-0.20,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f18,3,Car,16.9,761,-0.31,đáy thấp hơn mặt đường 0.31 m (chìm?); width=2.46 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f18,4,Car,17.8,309,-0.08,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f18,5,Car,15.8,550,-0.50,đáy thấp hơn mặt đường 0.50 m (chìm?); width=2.41 ngoài khoảng 1.4–2.3 của Car; height=2.34 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f18,6,Car,11.9,859,-0.01,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f18,7,Car,24.0,307,-0.15,length=6.38 ngoài khoảng 3.0–6.0 của Car; width=2.67 ngoài khoảng 1.4–2.3 của Car; height=2.49 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f18,8,Car,36.1,101,0.04,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f51,1,Car,11.5,1212,-0.12,height=2.34 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f51,2,Car,12.4,915,0.03,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f51,3,Car,20.7,358,-0.01,width=2.52 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f51,4,Car,27.1,186,-0.25,width=3.17 ngoài khoảng 1.4–2.3 của Car; height=2.41 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s02f51,5,Car,23.3,294,-0.29,đáy thấp hơn mặt đường 0.29 m (chìm?); height=2.68 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f00,1,Car,12.5,937,-0.14,width=2.48 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f00,2,Car,7.5,1447,-0.26,đáy thấp hơn mặt đường 0.26 m (chìm?); width=2.48 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f00,3,Car,5.4,2542,-0.20,width=2.48 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f00,4,Car,4.1,2264,-0.17,width=2.48 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f00,5,Car,8.2,1423,-0.05,width=2.48 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f00,6,Car,11.0,1011,-0.39,đáy thấp hơn mặt đường 0.39 m (chìm?); width=2.48 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f00,7,Car,21.3,587,-0.28,đáy thấp hơn mặt đường 0.28 m (chìm?); width=2.94 ngoài khoảng 1.4–2.3 của Car; height=2.91 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f00,8,Car,23.5,197,-0.27,đáy thấp hơn mặt đường 0.27 m (chìm?); width=2.71 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f43,1,Car,9.6,1387,-0.13,width=2.33 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f43,2,Car,22.8,295,-0.18,width=2.79 ngoài khoảng 1.4–2.3 của Car; height=2.33 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f43,3,Car,3.6,4254,-0.23,width=2.43 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f43,4,Car,37.5,95,-0.38,đáy thấp hơn mặt đường 0.38 m (chìm?); width=2.43 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s03f43,5,Car,62.1,32,,width=2.43 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,1,Car,15.0,976,0.08,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,2,Car,20.7,490,-0.11,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,3,Car,11.1,1895,0.19,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,4,Car,17.7,639,-0.02,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,5,Car,25.9,224,0.09,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,6,Car,44.8,64,,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,7,Car,30.4,219,-0.18,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,8,Car,22.2,428,-0.02,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,9,Car,40.1,94,-0.17,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,10,Car,26.8,245,-0.15,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,11,Car,31.7,96,-0.86,đáy thấp hơn mặt đường 0.86 m (chìm?); width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,12,Car,28.6,149,-0.17,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,13,Car,35.1,226,-0.38,đáy thấp hơn mặt đường 0.38 m (chìm?); width=2.80 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,14,Car,34.4,211,-0.39,đáy thấp hơn mặt đường 0.39 m (chìm?); width=2.80 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,15,Car,34.7,100,-0.41,đáy thấp hơn mặt đường 0.41 m (chìm?); width=2.80 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,16,Car,40.0,81,-0.20,width=2.65 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,17,Car,42.4,34,,height=2.31 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,18,Car,47.2,25,,height=2.31 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,19,Car,47.2,34,,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,20,Car,52.8,48,-0.48,đáy thấp hơn mặt đường 0.48 m (chìm?); width=2.64 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,21,Car,53.1,41,,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f25,22,Car,53.8,35,,width=2.39 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,1,Car,27.7,238,-0.18,width=2.65 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,2,Car,34.3,120,0.11,width=2.65 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,3,Car,50.0,54,-0.68,đáy thấp hơn mặt đường 0.68 m (chìm?); width=2.76 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,4,Car,6.0,4349,0.09,width=2.98 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,5,Car,10.6,1171,-0.08,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,6,Car,15.5,691,0.01,width=2.52 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,7,Car,35.0,104,-0.20,width=2.98 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,8,Car,40.6,89,-0.20,width=2.98 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,9,Car,54.7,46,,width=2.98 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s04f54,10,Car,9.8,1637,0.08,width=2.42 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,1,Car,5.5,4602,-0.32,đáy thấp hơn mặt đường 0.32 m (chìm?); width=2.68 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,2,Car,18.0,388,-0.23,width=2.54 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,3,Truck,11.1,3016,0.01,width=3.45 ngoài khoảng 1.6–3.2 của Truck,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,4,Car,14.5,865,0.04,width=2.52 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,5,Car,15.1,577,-0.08,width=2.52 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,6,Car,30.5,194,-0.08,width=2.52 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,7,Car,12.7,800,-0.14,width=2.56 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,8,Car,16.6,766,,width=2.56 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f01,9,Car,16.2,270,-0.14,width=2.56 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,1,Truck,35.7,528,-0.43,đáy thấp hơn mặt đường 0.43 m (chìm?),e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,2,Truck,34.5,485,-0.38,đáy thấp hơn mặt đường 0.38 m (chìm?),e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,3,Car,28.6,237,-0.37,đáy thấp hơn mặt đường 0.37 m (chìm?); width=2.80 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,4,Car,35.3,72,-0.50,đáy thấp hơn mặt đường 0.50 m (chìm?); width=2.80 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,5,Car,35.3,103,-0.45,đáy thấp hơn mặt đường 0.45 m (chìm?); length=6.91 ngoài khoảng 3.0–6.0 của Car; width=3.05 ngoài khoảng 1.4–2.3 của Car; height=2.68 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,6,Car,15.5,985,0.11,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,7,Car,12.2,1162,-0.15,width=2.32 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,8,Truck,12.6,2068,-0.01,,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,9,Car,41.3,149,-0.62,đáy thấp hơn mặt đường 0.62 m (chìm?); width=3.06 ngoài khoảng 1.4–2.3 của Car; height=2.58 ngoài khoảng 1.2–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,10,Car,36.8,128,-0.11,width=2.54 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
+s05f45,11,Car,43.9,82,-0.29,đáy thấp hơn mặt đường 0.29 m (chìm?); width=2.54 ngoài khoảng 1.4–2.3 của Car,e4c5da831306ed193f0471947e425df129962ab1b8ecc6fe451942a6429fe0f4
